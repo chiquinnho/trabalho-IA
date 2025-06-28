@@ -1,0 +1,19 @@
+# Tabelas de comparação de desempenho dos algoritmos de busca para o n-puzzle
+
+# Cabeçalho do CSV
+Algoritmo, Tipo de Puzzle, Tempo (s), Passos, Profundidade, Nós Expandidos
+BFS, 8-Puzzle, , , , 
+DFS, 8-Puzzle, , , , 
+IDS, 8-Puzzle, , , , 
+A*, 8-Puzzle, , , , 
+Gulosa, 8-Puzzle, , , , 
+BFS, 15-Puzzle, , , , 
+DFS, 15-Puzzle, , , , 
+IDS, 15-Puzzle, , , , 
+A*, 15-Puzzle, , , , 
+Gulosa, 15-Puzzle, , , , 
+BFS, 24-Puzzle, , , , 
+DFS, 24-Puzzle, , , , 
+IDS, 24-Puzzle, , , , 
+A*, 24-Puzzle, , , , 
+Gulosa, 24-Puzzle, , , , 

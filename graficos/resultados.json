@@ -1,0 +1,124 @@
+{
+  "resultados": [
+    {
+      "tipo_puzzle": "8-Puzzle",
+      "algoritmo": "BFS",
+      "tempo_execucao": 0.123,
+      "passos": 15,
+      "profundidade": 5,
+      "nos_expandidos": 30
+    },
+    {
+      "tipo_puzzle": "8-Puzzle",
+      "algoritmo": "DFS",
+      "tempo_execucao": 0.098,
+      "passos": 20,
+      "profundidade": 6,
+      "nos_expandidos": 25
+    },
+    {
+      "tipo_puzzle": "8-Puzzle",
+      "algoritmo": "IDS",
+      "tempo_execucao": 0.110,
+      "passos": 18,
+      "profundidade": 5,
+      "nos_expandidos": 28
+    },
+    {
+      "tipo_puzzle": "8-Puzzle",
+      "algoritmo": "A*",
+      "tempo_execucao": 0.085,
+      "passos": 12,
+      "profundidade": 4,
+      "nos_expandidos": 20
+    },
+    {
+      "tipo_puzzle": "8-Puzzle",
+      "algoritmo": "Gulosa",
+      "tempo_execucao": 0.090,
+      "passos": 14,
+      "profundidade": 5,
+      "nos_expandidos": 22
+    },
+    {
+      "tipo_puzzle": "15-Puzzle",
+      "algoritmo": "BFS",
+      "tempo_execucao": 0.250,
+      "passos": 45,
+      "profundidade": 10,
+      "nos_expandidos": 100
+    },
+    {
+      "tipo_puzzle": "15-Puzzle",
+      "algoritmo": "DFS",
+      "tempo_execucao": 0.230,
+      "passos": 50,
+      "profundidade": 11,
+      "nos_expandidos": 95
+    },
+    {
+      "tipo_puzzle": "15-Puzzle",
+      "algoritmo": "IDS",
+      "tempo_execucao": 0.240,
+      "passos": 48,
+      "profundidade": 10,
+      "nos_expandidos": 98
+    },
+    {
+      "tipo_puzzle": "15-Puzzle",
+      "algoritmo": "A*",
+      "tempo_execucao": 0.200,
+      "passos": 40,
+      "profundidade": 9,
+      "nos_expandidos": 85
+    },
+    {
+      "tipo_puzzle": "15-Puzzle",
+      "algoritmo": "Gulosa",
+      "tempo_execucao": 0.210,
+      "passos": 42,
+      "profundidade": 10,
+      "nos_expandidos": 90
+    },
+    {
+      "tipo_puzzle": "24-Puzzle",
+      "algoritmo": "BFS",
+      "tempo_execucao": 0.500,
+      "passos": 80,
+      "profundidade": 15,
+      "nos_expandidos": 200
+    },
+    {
+      "tipo_puzzle": "24-Puzzle",
+      "algoritmo": "DFS",
+      "tempo_execucao": 0.480,
+      "passos": 85,
+      "profundidade": 16,
+      "nos_expandidos": 195
+    },
+    {
+      "tipo_puzzle": "24-Puzzle",
+      "algoritmo": "IDS",
+      "tempo_execucao": 0.490,
+      "passos": 82,
+      "profundidade": 15,
+      "nos_expandidos": 198
+    },
+    {
+      "tipo_puzzle": "24-Puzzle",
+      "algoritmo": "A*",
+      "tempo_execucao": 0.450,
+      "passos": 75,
+      "profundidade": 14,
+      "nos_expandidos": 180
+    },
+    {
+      "tipo_puzzle": "24-Puzzle",
+      "algoritmo": "Gulosa",
+      "tempo_execucao": 0.460,
+      "passos": 78,
+      "profundidade": 15,
+      "nos_expandidos": 185
+    }
+  ]
+}
